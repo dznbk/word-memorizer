@@ -1,24 +1,47 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { useState, useEffect } from 'react';
 import './App.css';
+import { fetchWords } from './services/wordService';
+import { Word } from './types/word';
 
-function App() {
+const  App: React.FC = () => {
+  const [words, setWords] = useState<Word[]>([]);
+  const [currentWord, setCurrentWord] = useState<Word | null>(null);
+  const [showMeaning, setShowMeaning] = useState(false);
+
+  useEffect(() => {
+    const loadWords = async () => {
+      const fetchedWords = await fetchWords();
+      setWords(fetchedWords);
+      setCurrentWord(fetchedWords[Math.floor(Math.random() * fetchedWords.length)]);
+    };
+    loadWords();
+  }, []);
+
+  const handleShowMeaning = () => {
+    setShowMeaning(true);
+  }
+
+  const handleNextWord = () => {
+    setCurrentWord(words[Math.floor(Math.random() * words.length)]);
+    setShowMeaning(false);
+  }
+
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1>英単語帳</h1>
+        <p>ランダムに選ばれた英単語とその意味を学びましょう。</p>
       </header>
+      <main>
+        {currentWord && (
+          <div>
+            <p>単語：{currentWord.word}</p>
+            {showMeaning && <p>意味：{currentWord.meaning}</p>}
+          </div>
+        )}
+        <button onClick={handleShowMeaning}>意味を表示</button>
+        <button onClick={handleNextWord}>他の単語を表示</button>
+      </main>
     </div>
   );
 }
