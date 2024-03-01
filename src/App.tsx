@@ -32,7 +32,7 @@ const  App: React.FC = () => {
         <h1>英単語帳</h1>
         <p>ランダムに選ばれた英単語とその意味を学びましょう。</p>
       </header>
-      <main>
+      <main className="main-content">
         {currentWord && (
           <div>
             <p>単語：{currentWord.word}</p>
