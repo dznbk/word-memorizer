@@ -1,4 +1,323 @@
 word,meaning
-"abstract","抽象的"
-"algorithm","アルゴリズム"
-
+get the most of～　,　～を最大限に活用する。
+the most,最大限、最大量
+nearby links,付近のリンク
+turn on,ONにする
+learn more,学習 や 指導 、 経験 によって 知識 や 理解 、 技能 を得るという意味
+change how webpages are displayed in tabs,タブの中のwebページの表示方法を設定します
+Appearance,外観
+Are you sure?,確かですか？
+sure,確かに、思って
+advanced,高度な
+available,利用加納な
+discard,破棄する
+dismiss,閉じる、消す
+incoming,受信の、着信の
+preference,ユーザー設定（好み）
+previous,前の
+remaining,残りの
+specify,指定する
+toggle,切り替える
+～ allow you to ...,～をつかうと...できます
+an error occurred while ~,～の最中にエラーが発生しました。
+are you sure you want to ~,本当に　～　しますか？
+be greater than ~,　～　を超える
+it is recommended that you ~　,～することを推奨します
+more than one,たくさんか、ひとつか
+there is a problem with ~,問題がある
+try again later,あとで試して
+you are about to ~,～しようとしています
+caused,引き起こす、原因となる
+reflect,反映する
+bump,バージョンをあげる
+correctly,正しく
+ensure,確実にする
+improve,改善する
+generic,汎用の
+instead,代わりに
+introduce,導入する
+redundant,余分な、冗長な
+simplify,シンプルにする、単純化する
+tweak,微調整
+get rid of ~,取り除く
+in favor of ~,～を優先して
+make it eaisier to ~,～することを簡単にする
+make it possible to ~,～することを可能にする
+make sure that ~,～を確かめる、確実にする
+no longer ~,もう～ではない
+no need to ~,～する必要はない
+~ rather than …,…ではなく～
+so taht ~ can …,～　が　…　できるように
+provides,提供
+convenient,便利
+specified,指定
+description,説明
+expression,式、表現
+inherit,継承する
+invoke,呼び出す
+multiple,複数の
+otherwise,そうでなければ
+specify,指定する
+~ can be used to …,～　は　…するのに使える
+see also,こちらも参照
+whether or not ~,　～　かどうか
+determine if ~,　～かどうかを判定する
+the number of ~, ～の数
+applicable,当該の、適用の
+breach,（契約などを）破る、違反する
+claim,請求、要求
+collectively,まとめて、総称して
+comply,（命令や規則に）従う
+consent,同意
+consequential,派生的な、後発的な
+disclaimer,（責任の）否認、免責事項
+discretion,裁量
+entity,法人
+expressly,明示的に
+extent,範囲、限度
+implied,黙示の、暗黙の
+infringement,（権利などの）侵害
+jurisdiction,管轄権、司法権
+liability,責任
+liable,責任のある
+licensor,ライセンス許諾者
+loss,損害、損失
+material,資料、データ
+obligation,義務
+party,当事者
+prior,事前の
+property,財産、所有権
+proprietary,所有権の
+require,要求する
+reserve,留保する
+responsible,責任のある
+restriction,制限、成約
+solely,単独で
+subject,（承認などを）受ける必要がある、条件とする
+violation,（法律などの）違反
+waiver,（権利などの）放棄
+terms,たぶん規約、条件、取り決め
+govern,適用される、支配する
+accordance,したがって
+in our sole discretion,当社独自の裁量で
+retains,保持
+patents,特許
+warranties,保証
+trade secret,企業秘密
+merchantability,商品制
+fitness for a particulaar purpose,特定目的への適合性
+non-infringement,非侵害
+in no event～, いかなる場合も ~ ない
+miscellaneous,雑多な
+arising from ~ ,～から発生する
+at any time for any reason , いついかなる理由でも
+in accordance with ~ ,～に従って
+in the event ~ ,～の場合には
+including but not limited to ~,～を含むがこれに限定せず
+set forth,明記する
+to the extent ~,～の範囲で
+with respect to ~ ,～に関して
+exactly,まさにちょうど
+draw,描く
+blur,ぼやけているもの
+definitely,もちろん、確実
+anyway,いずれにしても、とにかく
+appreciate,感謝する
+discuss,話し合う
+guarantee,保証する
+hesitate,躊躇する、ためらう
+inform,通知する
+instruction,指示
+opportunity,機会
+regarding,～に関して
+via,～（連絡手段）で
+feel free to ~ ,気軽に　～　する
+get back to ~,～　に後で連絡する、折り返す
+happy to ~,喜んで ～　する
+let me/us know,知らせてください
+look forward to ~,～　を楽しみにしている
+more about ~,～についてさらに
+reach out ouf ~,～　に連絡を取る
+thanks for ~,～　をありがとうございます
+frequently,頻繁に
+addictive,ハマる
+would,だろう
+glitchy,欠陥がある
+adorable,かわいい、愛らしい
+awesome,すばらしい
+handy,使いやすい
+informative,知識が得られる
+decent,きちんとした
+annoying,うざい、うるさい
+awful,ひどい
+laggy,遅い、遅延する
+horrible,ひどい
+boring,つまらない
+shaky,不安定な
+buggy,バグがある
+stupid,ばかな、つまらない
+crappy,糞みたいな、最低な
+terrible,ひどい
+cumbersome,扱いにくい
+unusable,使用不能な
+dump,ばかな
+absolutery,絶対に、完全に
+crap,がらくた、糞
+even,これまで
+hate,嫌う
+overall,全体的に
+pretty,とても
+suck,ひどい、つまらない
+easy to ~,～　しやすい
+great way to ~,～　するのによい方法だ
+it would be better if ~,～　だったらもっとよかったのに
+keep up the good work,その調子でよい仕事をしてくれ
+other than that,それ以外は
+so far so good,今のところはよい
+secure,確保する（動詞）
+artificial intelligence,人口知能
+premium,割増金
+deal,取引
+biggest-ever,過去最大の
+acquisition,取得
+aim,目指す
+billion,10億
+competitor,競合企業,競合製品
+decline,断る
+earlier,これまでに、以前に
+executive,経営者、役員、幹部
+former,以前の
+founder,創業者
+industry,業界、産業
+instead,代わりに
+launch,発売する、提供開始する
+offer,提供する
+revenue,収益
+spokesperson,広報担当者
+according to ~,~によると
+as a result,その結果
+in response to ~,～に応えて、～に対応して
+in the future,将来に
+in the post,過去に
+milioons of ~,数百万の～
+no longer,もう～ない
+so far,現在までのところ
+work on ~,～に取り組む
+Conclusion,結論
+several,いくつか
+above,上記の、上で
+awesome,すばらしい
+below,下記で、下で
+crucial,決定的な、極めて重要な
+figure,図
+fortunately,幸い、幸運にも
+similar,似た
+straightforward,わかりやすい、まっすぐな
+typically,一般的に、典型的に
+as you can see,見ての通り
+make sure that ~,～　であることを確認する
+take a look at ~,～　を見る、～に注目する
+see if ~,～　であることを確認する
+expenses,経費
+previously,以前
+postage,郵便料金
+glossary,用語集
+stationery,文房具
+privilege,特権
+adjust,調整する
+appear,出現する
+cause,発生させる、原因となる
+determine,判定する、決定する
+prevent,防止する
+~ allows you to …,～で　…できる
+at any time,いつでも
+at he bottom of ~ ,～の最下部に
+at the top of ~,～　の最上部に
+depending on ~,～　に応じて
+for more information about ~,～　に関する詳細情報については
+one of the following,次のいずれか1つ
+one or more,1つまたは複数の
+press and hold,押し続ける
+Purpose,目的
+prespective,見通し、パースペクティブ
+constraints,制約
+assumptions,仮定
+acronymss,頭字語
+abbreviations,略語
+must, shall,義務、絶対的な要件
+mustnot, shall not,絶対的な禁止
+should,推奨。可能な限りしたほうがよい
+should not,非推奨。可能な限りしないほうがよい
+may,任意。してもよい
+introduction,序論、はじめに
+scope；範囲
+overall,全体の
+perspective,位置づけ
+characteristic,特徴、特性
+logical,論理の
+appendices,付録
+assumption,前提条件
+dependency,依存関係
+additional,追加の
+allow,許可する、可能にする
+appropriate,適切な
+associate,関連つける
+available,利用可能な、入手可能な
+consideration,考慮すべき事項
+constraint,成約
+external,外部の
+functionality,機能
+identify,特定する、識別する
+implementation,実装
+indicate,示す
+intend,意図する
+multiple,複数の
+operation,操作
+particular,ある特定の
+protocol,プロトコル（外交儀礼、条約、関係者間の決まり事）
+provide,提供する
+section,セクション、節
+single,単一の
+specific,特定の、具体的な
+specification,仕様、仕様書
+specify,明記する、指定する
+via,経由で
+within,～以内に
+according to ~,～　に従って
+as described in ~,～　で説明しているように
+based on ~,～　に基づいて
+if any,もしあるとしたら
+note that ~,～　である点に注意
+prior to ~,～　より前に
+result in ~,～　という結果になる
+such as ~,たとえば
+the following ~,次の～
+Then,続いて
+FYI,参考までに。For Your Information。
+Urban Dictionary（新語サイト）
+whole number,整数
+inclusive,含んだ
+exclusive,含まない
+multiply,かける、乗算する
+round down,切り下げる
+alternatively,代わりに
+appreciate,感謝する
+contain,,含む
+conversion,変換
+i.e.,すなわち、つまり
+parenthesis,丸かっこ
+placeholder,プレースホルダー（場所を確保するための、仮置き）
+quote,引用する
+suppose,仮定する
+way,方法
+as of ~,～時点で
+as pointed out,指摘の通り
+go on,発生する、進行する
+how come,どうして、なぜ
+in a nutshell,要するに、簡単にいうと
+same here,私も同じ
+something like ~,～のようなもの
+vice versa,逆もまた同じ
+work on ~,～に取り組む
+TBD,後日決定。to be determined
+ASAP,as soon as possible。できるだけ早く
