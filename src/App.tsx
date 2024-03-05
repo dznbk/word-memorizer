@@ -39,8 +39,9 @@ const  App: React.FC = () => {
             {showMeaning && <p>意味：{currentWord.meaning}</p>}
           </div>
         )}
-        <button onClick={handleShowMeaning}>意味を表示</button>
-        <button onClick={handleNextWord}>他の単語を表示</button>
+        <button onClick={showMeaning ? handleNextWord : handleShowMeaning}>
+          {showMeaning ? '他の単語を表示' : '意味を表示'}
+        </button>
       </main>
     </div>
   );
